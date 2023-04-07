@@ -5,7 +5,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-colocar o gif aqui
+![crud](https://user-images.githubusercontent.com/50848988/230682884-dda93349-bcd3-4972-ad6b-dbdf42917515.gif)
 
 <br>
 
